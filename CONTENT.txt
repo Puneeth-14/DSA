@@ -1,0 +1,13 @@
+
+STATIC KEYWOED : USING STATIC KEYWORD STATIC BLOCK WILL CREATED AND IT IS A SINGLE TON BLOCK(IT ONLY CREATES ONES).
+STATIC METHOD : for this no need to create object, static will act as instance or object. And using class name u can call static methods.
+CONSTRUCTOR : It is a 
+initialization : calling the object creation  constructor 
+
+#CONDITIONAL STATEMENTS:
+It will take the condition and it will print that block.
+Types : if, else, else if , switch.
+Examples : 
+1) 
+
+-> condition statements are used to get output in constants time
